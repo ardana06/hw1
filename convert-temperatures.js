@@ -54,3 +54,4 @@ console.log (globalVariable); //работает везде
 console.log(functionVariable); //ошибка 
  
 console.log(blockVariable); //ошибка
+
