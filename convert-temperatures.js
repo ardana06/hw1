@@ -1,11 +1,10 @@
-const gradus = function(Celsia){  
+const Farengeit = function(Celsia){  
     let sum = Celsia * 9 / 5 + 32;  
     console.log("Фаренгейт равен = " + sum);  
 }  
-gradus(10)  
-gradus(55)  
-gradus(29)  
-  
+Farengeit(10)  
+Farengeit(55)  
+Farengeit(29)  
   
   
 const Celsia = function(Farengeit){  
