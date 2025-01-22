@@ -1,3 +1,5 @@
+//дз 1 - convert-temperatures
+
 const Farengeit = function(Celsia){  
     let sum = Celsia * 9 / 5 + 32;  
     console.log("Фаренгейт равен = " + sum);  
