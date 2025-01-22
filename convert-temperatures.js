@@ -16,6 +16,9 @@ Celsia(131)
 Celsia(84.2)
 
 
+
+//дз - 2 block-scopes
+
 let globalVariable = "Я глобал"; //работает везде 
 console.log (globalVariable); 
  
