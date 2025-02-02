@@ -1,5 +1,5 @@
-function printEven(){
-    for (let i=0; i<=100; i +=2){
+let printEven = function(){
+    for (i=0; i<=100; i +=2){
     console.log(i);
     }
 }
