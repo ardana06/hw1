@@ -256,5 +256,5 @@ var data = {
     
 
     //15 шаг
-    data.stats[0].base_stat = "Ardana";
+    data.stats.splice(0, 1, { base_stat: "Ardana" });
     console.log(data.stats);
